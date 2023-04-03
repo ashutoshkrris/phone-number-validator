@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "phone-number-validator"
-version = "0.1.2"
+version = "1.0.0"
 description = "Validate Phone Numbers using NumLookupAPI"
 authors = ["Ashutosh Krishna <ashutoshbritish@gmail.com>"]
 readme = "README.md"
