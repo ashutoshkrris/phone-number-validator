@@ -1,9 +1,11 @@
 [tool.poetry]
 name = "phone-number-validator"
-version = "0.1.0"
-description = ""
+version = "0.1.2"
+description = "Validate Phone Numbers using NumLookupAPI"
 authors = ["Ashutosh Krishna <ashutoshbritish@gmail.com>"]
 readme = "README.md"
+license = "Apache-2.0"
+repository = "https://github.com/ashutoshkrris/phone-number-validator"
 packages = [{include = "phone_number_validator"}]
 
 [tool.poetry.dependencies]
