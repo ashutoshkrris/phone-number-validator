@@ -6,7 +6,7 @@ The Phone Number Validator package provides a simple way to validate phone numbe
 You can install the package using pip:
 
 ```bash
-pip install phone_number_validator
+pip install phone-number-validator
 ```
 
 ## Usage
